@@ -1,7 +1,7 @@
 # Alexis Herr
 **Email:** alexisherr@mines.edu
 **Address:** Golden, CO
-![Headshot](/Personal/Documents/headshot.jpg)
+![Headshot](~/OneDrive/Documents/headshot.jpg)
 ### Education
 - Colorado School of Mines, 2021-Present
 My school website is linked [here](https://www.mines.edu/)
